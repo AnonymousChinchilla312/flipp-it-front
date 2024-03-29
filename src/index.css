@@ -58,3 +58,10 @@ code {
 .dropdown:hover .dropdown-content {
   display: block;
 }
+
+.brand {
+  font-size: 36px;
+  color: black;
+  font-weight: bold;
+  text-decoration-line: none;
+}
